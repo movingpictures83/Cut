@@ -1,0 +1,2 @@
+Prefix plugins/Cut/example/
+Plugin Cut inputfile parameters.cut.txt outputfile small1.kraken.report.std.txt

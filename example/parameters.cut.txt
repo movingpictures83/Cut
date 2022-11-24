@@ -1,0 +1,2 @@
+txtfile	small1.kraken.report.txt
+counts	counts.txt
